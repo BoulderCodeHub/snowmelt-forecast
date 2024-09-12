@@ -1,0 +1,349 @@
+,Name,ID,Longitude,Latitude
+0,"Verona, Arroyo De La Laguna",ADLC1,37.63,121.88
+1,"Prado Reservoir, Santa Ana River",ADOC1,33.89,117.64
+2,"San Jose, Arroyo Hondo",AHOC1,37.46,121.77
+3,"Kyburz, South Fork American River",AKYC1,38.76,120.33
+4,"Pleasanton, Alamo Canal",ALQC1,37.69,121.92
+5,"Almaden Reservoir, Alamitos Creek",ALRC1,37.16,121.83
+6,"Anderson Reservoir, Coyote Creek",ANDC1,37.17,121.63
+7,"San Antonio Reservoir, San Antonio Creek",ANOC1,37.57,121.85
+8,"Antelope Lake, Indian Creek",ANTC1,40.18,120.61
+9,"Napa, Napa River",APCC1,38.37,122.3
+10,"Arcata, Mad River",ARCC1,40.91,124.06
+11,"Chittenden, Pajaro River",AROC1,36.9,121.6
+12,"Avery, N Fork Stanislaus River",AVYC1,38.24,120.29
+13,"Sunol, Alameda Creek",AWEC1,37.54,121.86
+14,"Below Boca Dam, Little Truckee River",BCAC1,39.39,120.09
+15,"Bear Reservoir, Bear Creek",BCKC1,37.37,120.22
+16,"Bend Bridge, Sacramento River",BDBC1,40.29,122.19
+17,"Eastman Lake, Chowchilla River",BHNC1,37.21,119.97
+18,"Chico, Butte Creek",BKCC1,39.73,121.71
+19,"Black Butte Reservoir, Stony Creek",BLBC1,39.81,122.33
+20,"Burns Reservoir, Burns Creek",BNCC1,37.38,120.28
+21,"Below JC Boyle Power Plant, Klamath River",BOYO3,42.08,122.07
+22,"Bridgeport Reservoir, East Walker River",BPRC1,38.33,119.21
+23,"Bradley, Salinas River",BRDC1,35.93,120.87
+24,"Bridgeville, Van Duzen River",BRGC1,40.48,123.89
+25,"Barrett Lake, Cottonwood Creek",BRTC1,32.68,116.67
+26,"Cloverdale, Big Sulphur Creek",BSCC1,38.83,123
+27,"Big Sur, Big Sur River",BSRC1,36.25,121.77
+28,"Butte City, Sacramento River",BTCC1,39.46,121.99
+29,"Big Trees, San Lorenzo River",BTEC1,37.04,122.07
+30,"Big Tujunga Reservoir, Big Tujunga Creek",BTJC1,34.29,118.19
+31,"Beatty, Sprague River",BTYO3,42.45,121.24
+32,"Burnt Ranch, Trinity River",BURC1,40.79,123.44
+33,"Bowman Reservoir, Canyon Creek",BWKC1,39.45,120.65
+34,"Calero Reservoir, Calero Creek",CADC1,37.18,121.79
+35,"Placerville, South Fork American River",CBAC1,38.77,120.82
+36,"Chesbro Reservoir, Llagas Creek",CBRC1,37.12,121.69
+37,"Lake Cachuma, Santa Ynez River",CCHC1,34.58,119.98
+38,"Cloverdale, Russian River",CDLC1,38.88,123.05
+39,"Trinity Lake, Trinity River",CEGC1,40.8,122.76
+40,"Markleeville, East Fork Carson River",CEMC1,38.71,119.76
+41,"Camp Far West, Bear River",CFWC1,39.05,121.31
+42,"Chualar, Salinas River",CHLC1,36.56,121.55
+43,"Chiloquin, Sprague River",CHSO3,42.58,121.85
+44,"Cherry Lake, Cherry Creek",CHVC1,37.97,119.92
+45,"Clear Lake Reservoir, Lost River",CKEC1,41.93,121.08
+46,"Colusa Weir, Sacramento River",CLAC1,39.24,121.99
+47,"Lakeport, Clear Lake",CLKC1,39.04,122.91
+48,"CSU Channel Islands, Calleguas Creek",CLLC1,34.18,119.04
+49,"Moulton Weir, Sacramento River",CLSC1,39.34,122.02
+50,"Colusa Bridge, Sacramento River",CLUC1,39.21,122
+51,"Milpitas - Highway 237, Coyote Creek",CMIC1,37.42,121.93
+52,"Pardee Reservoir, Mokelumne River",CMPC1,38.26,120.85
+53,"Comus, Humboldt River",CMSN2,40.99,117.32
+54,"Canby, Pit River",CNBC1,41.41,120.93
+55,"Cottonwood, Battle Creek",COTC1,40.4,122.15
+56,"Coyote Reservoir, Coyote Creek",COYC1,37.09,121.54
+57,"Jedediah Smith SP, Smith River",CREC1,41.79,124.05
+58,"Castaic Lake, Castaic Creek",CSKC1,34.52,118.61
+59,"Cotati - Stony Point Road, Laguna De Santa Rosa",CTIC1,38.35,122.74
+60,"Calaveras Reservoir, Arroyo Hondo",CVQC1,37.49,121.82
+61,"Cottonwood, Cottonwood Creek",CWAC1,40.38,122.24
+62,"Millville, Cow Creek",CWCC1,40.51,122.23
+63,"Buckhorn Canyon, Cuyama River",CYBC1,35.02,120.23
+64,"Modesto, Dry Creek",DCMC1,37.66,120.92
+65,"Smartsville, Deer Creek",DCSC1,39.22,121.27
+66,"Vina, Deer Creek",DCVC1,40.01,121.95
+67,"Palm Desert, Deep Creek",DEPC1,33.63,116.39
+68,"Devils Gate, North Fork Humboldt River",DEVN2,41.18,115.49
+69,"Above Dixie Creek, South Fork Humboldt River",DIXN2,40.69,115.81
+70,"Fountain Springs, Deer Creek",DKCC1,35.94,118.82
+71,"Hesperia, Deep Creek",DKHC1,34.34,117.23
+72,"Lemoncove, Dry Creek",DLMC1,36.45,119.03
+73,"Delta, Sacramento River",DLTC1,40.94,122.42
+74,"Merle Collins Lake, Dry Creek",DMCC1,39.34,121.33
+75,"Donner Lake, Donner Creek",DNRC1,39.33,120.28
+76,"Dos Rios, Middle Fork Eeel River",DOSC1,39.71,123.32
+77,"Snelling, Dry Creek",DSNC1,37.55,120.46
+78,"Lake Davis, Big Grizzly Creek",DVSC1,39.88,120.48
+79,"Paskenta, Elder Creek",EDCC1,40.02,122.51
+80,"El Dorado, North Fork Cosumnes River",EDOC1,38.59,120.84
+81,"Elderberry Forebay, Castaic Creek",EFBC1,34.56,118.63
+82,"El Capitan Reservoir, San Diego River",ELPC1,32.88,116.81
+83,"East Park Reservoir, Little Stony Creek",EPRC1,39.36,122.52
+84,"Estrella, Estrella River",ESRC1,35.72,120.64
+85,"Strosnider Ditch, East Walker River",EWSN2,38.81,119.05
+86,"Exchequer Reservoir, Merced River",EXQC1,37.59,120.27
+87,"Farad, Truckee River",FARC1,39.43,120.03
+88,"Frenchman Lake, Little Last Chance Creek",FHDC1,39.89,120.19
+89,"French Meadows Reservoir, Middle Fork American River",FMDC1,39.11,120.43
+90,"Fremont Weir, Sacramento River",FMWC1,38.77,121.67
+91,"Fordyce Lake, Fordyce Creek",FOCC1,39.38,120.49
+92,"Folsom Lake, American River",FOLC1,38.7,121.17
+93,"Millerton Lake, San Joaquin River",FRAC1,36.99,119.69
+94,"Farmington Reservoir, Littlejohns Creek",FRGC1,37.91,120.94
+95,"Fernbridge, Eel River",FRNC1,40.62,124.2
+96,"Fashion Valley, San Diego River",FSNC1,32.77,117.17
+97,"Fort Churchill, Carson River",FTCN2,39.29,119.31
+98,"Doctor Fine Bridge, Smith River",FTDC1,41.88,124.14
+99,"Fort Jones, Scott River",FTJC1,41.64,123.01
+100,"Fort Seward, Eel River",FTSC1,40.22,123.63
+101,"Garey, Sisquoc River",GARC1,34.89,120.31
+102,"Gerber Reservoir, Miller Creek",GERO3,42.2,121.13
+103,"Geyserville, Russian River",GEYC1,38.71,122.89
+104,"Gardnerville, East Fork Carson River",GRDN2,38.85,119.7
+105,"Guadalupe Reservoir, Guadalupe Creek",GUAC1,37.2,121.88
+106,"San Jose - Almaden Exprwy, Guadalupe River",GUDC1,37.28,121.88
+107,"Guerneville, Russian River",GUEC1,38.5,123
+108,"Goodyears Bar, North Fork Yuba River",GYRC1,39.52,120.94
+109,"Hamilton City, Sacramento River",HAMC1,39.75,122
+110,"Hansen Dam, Tujunga Wash",HANC1,34.26,118.38
+111,"Happy Camp, Indian Creek",HAPC1,41.84,123.38
+112,"Lake Henshaw, San Luis Rey River",HAWC1,33.24,116.76
+113,"Battle Mountain, Humboldt River",HBMN2,40.67,116.93
+114,"Holsten Chimney Canyon, Bear Creek",HCHC1,38.96,122.34
+115,"Healdsburg, Russian River",HEAC1,38.61,122.84
+116,"Hetch Hetchy Reservoir, Tuolumne River",HETC1,37.95,119.79
+117,"Hensley Lake, Fresno River",HIDC1,37.1,119.88
+118,"Chico, Big Chico Creek",HKCC1,39.77,121.78
+119,"Englebright Lake, Yuba River",HLEC1,39.24,121.27
+120,"Hell Hole Reservoir, Rubicon River",HLLC1,39.07,120.42
+121,"Lake Hodges, San Dieguito River",HODC1,33.07,117.11
+122,"Hoopa, Trinity River",HOOC1,41.05,123.67
+123,"Hopland, Russian River",HOPC1,39.03,123.13
+124,"Hollister, San Benito River",HOSC1,36.85,121.43
+125,"Hough Springs, North Fork Cache Creek",HOUC1,39.17,122.62
+126,"Hoye Bridge, West Walker River",HOYN2,38.73,119.43
+127,"Yosemite NP at Happy Isles, Merced River",HPIC1,37.73,119.56
+128,"Carlin, Humboldt River",HRCN2,40.73,116.01
+129,"Elko, Humboldt River",HREN2,40.94,115.62
+130,"Imlay, Humboldt River",HRIN2,40.69,118.2
+131,"Arroyo Grande, Huasna River",HSAC1,35.08,120.37
+132,"Hyampom, South Fork Trinity River",HYMC1,40.65,123.49
+133,"Ice House Reservoir, South Fork Silver Creek",ICHC1,38.82,120.36
+134,"Indian Falls, Indian Creek",IIFC1,40.06,120.96
+135,"Independence Lake, Independence Creek",ILAC1,39.45,120.29
+136,"Indian Valley Reservoir, North Fork Cache Creek",INVC1,39.08,122.53
+137,"Iron Gate, Klamath River",IRGC1,41.93,122.44
+138,"Lake Isabella, Kern River",ISAC1,35.63,118.48
+139,"Jackson Meadows Reservoir, Middle Yuba River",JKRC1,39.51,120.55
+140,"Jones Bar, South Fork Yuba River",JNSC1,39.29,121.1
+141,"Kelseyville, Kelsey Creek",KCVC1,38.93,122.84
+142,"King City, San Lorenzo Creek",KCYC1,36.27,121.07
+143,"Keno, Klamath River",KEOO3,42.13,121.96
+144,"Above Boyden Cavern, South Fork Kings River",KGPC1,36.81,118.78
+145,"Fairview Dam, Kern River",KKVC1,35.95,118.48
+146,"Klamath Falls, Upper Klamath Lake",KLAO3,42.25,121.82
+147,"Klamath, Klamath River",KLMC1,41.51,123.98
+148,"Keenbrook, Cajon Creek",KNBC1,34.27,117.46
+149,"Kernville, Kern River",KRVC1,35.75,118.42
+150,"Three Rivers, Kaweah River",KTRC1,36.44,118.9
+151,"Lake Mendocino, East Fork Russian River",LAMC1,39.2,123.19
+152,"Los Banos Creek Reservoir, Los Banos Creek",LBDC1,36.99,120.93
+153,"Lake Berryessa, Putah Creek",LBEC1,38.51,122.1
+154,"Lamoille, Lamoille Creek",LCLN2,40.69,115.48
+155,"Leggett, South Fork Eel River",LEGC1,39.87,123.72
+156,"Lake Elsman, Los Gatos Creek",LESC1,37.13,121.93
+157,"Lexington Reservoir, Los Gatos Creek",LEXC1,37.2,121.99
+158,"El Dorado Avenue, Los Gatos Creek",LGAC1,36.17,120.21
+159,"Coalinga, Los Gatos Creek",LGCC1,36.21,120.47
+160,"Lake Piru, Santa Clara River",LKPC1,34.46,118.75
+161,"Los Laureles Canyon, Santa Ynez River",LLYC1,34.54,119.86
+162,"Loon Lake, Gerle Creek",LNLC1,38.98,120.32
+163,"Lake Eleanor, Eleanor Creek",LNRC1,37.97,119.88
+164,"Hayward, San Lorenzo Creek",LRZC1,37.69,122.06
+165,"Sebastopol, Laguna De Santa Rosa",LSEC1,38.43,122.83
+166,"Friant, Little Dry Creek",LTDC1,36.93,119.73
+167,"Livermore, Arroyo Valle",LVKC1,37.62,121.76
+168,"Lockwood, San Antonio River",LWDC1,35.9,121.09
+169,"Little Washoe Lake, Steamboat Creek",LWON2,39.33,119.8
+170,"Paradise Valley, Martin Creek",MARN2,41.53,117.43
+171,"Mason - Snyder Lane, Walker River",MASN2,38.92,119.19
+172,"Barstow, Mojave River",MBRC1,34.91,117.02
+173,"McConnell, Cosumnes River",MCNC1,38.36,121.34
+174,"McDermitt, McDermitt Creek",MDCN2,41.97,117.83
+175,"Modesto, Tuolumne River",MDSC1,37.63,120.99
+176,"McKee Road, Bear Creek",MEEC1,37.31,120.44
+177,"Foresthill, Middle Fork American River",MFAC1,39.01,120.76
+178,"Above Middle Fork Powerhouse, Middle Fork American River",MFPC1,39.03,120.59
+179,"Portola, Middle Fork Feather River",MFTC1,39.82,120.44
+180,"Michigan Bar, Cosumnes River",MHBC1,38.5,121.04
+181,"Above Hot Springs Creek, Marys River",MHSN2,41.25,115.26
+182,"Water Resources Index, Central Valley",MLIC0,38.04,121.92
+183,"Los Molinos, Mill Creek",MLMC1,40.05,122.02
+184,"Piedra, Mill Creek",MLPC1,36.82,119.34
+185,"McCloud, McCloud River",MMCC1,41.19,122.06
+186,"Mariposa Reservoir, Mariposa Creek",MPAC1,37.29,120.15
+187,"Above Diversion Dam, Alameda Creek",MPTC1,37.5,121.77
+188,"Merrimac, Middle Fork Feather River",MRMC1,39.71,121.27
+189,"Miranda, South Fork Eel River",MRNC1,40.18,123.78
+190,"Marysville, Yuba River",MRYC1,39.18,121.52
+191,"Bellota, Mormon Slough",MSGC1,38.05,121.01
+192,"Above Shasta Lake, McCloud River",MSSC1,40.96,122.22
+193,"Martis Creek Lake, Martis Creek",MTSC1,39.33,120.11
+194,"Upper Lake, Middle Creek",MUPC1,39.18,122.91
+195,"Temecula, Murrieta Creek",MUTC1,33.48,117.14
+196,"Mojave River Forks Reservoir, Mojave River",MVDC1,34.34,117.23
+197,"Victorville, Mojave River",MVVC1,34.57,117.32
+198,"Mirabel Heights, Mark West Creek",MWEC1,38.49,122.85
+199,"Muni Water Dist Crossing, Santa Ana River",MWXC1,33.97,117.45
+200,"Lake Nacimiento, Nacimiento River",NACC1,35.76,120.89
+201,"New Bullards Bar Reservoir, North Fork Yuba River",NBBC1,39.39,121.14
+202,"Sapaque, Nacimiento River",NBYC1,35.79,121.09
+203,"Nicolaus, Feather River",NCOC1,38.89,121.6
+204,"Don Pedro Lake, Tuolumne River",NDPC1,37.7,120.42
+205,"Diversion Dam, N Fork Stanislaus River",NDVC1,38.44,120.02
+206,"North Fork Dam, North Fork American River",NFDC1,38.94,121.02
+207,"East Branch, North Fork Feather River",NFEC1,40.01,121.22
+208,"New Hogan Lake, Calaveras River",NHGC1,38.16,120.81
+209,"Niles, Alameda Creek",NILC1,37.59,121.96
+210,"Foresthill, NF of MF American River",NMFC1,39.02,120.72
+211,"New Melones Lake, Stanislaus River",NMSC1,37.95,120.54
+212,"Narrows, Santa Ynez River",NRWC1,34.64,120.42
+213,"New Spicer Meadows Reservoir, Highland Creek",NSWC1,38.39,120
+214,"Navarro, Navarro River",NVRC1,39.17,123.67
+215,"Newman, San Joaquin River",NWMC1,37.35,120.98
+216,"Orange Blossom, Stanislaus River",OBBC1,37.78,120.75
+217,"Orleans, Klamath River",ONSC1,41.3,123.53
+218,"Lake Oroville, Feather River",ORDC1,39.53,121.52
+219,"Newman, Orestimba Creek",OREC1,37.32,121.12
+220,"Ord Ferry, Sacramento River",ORFC1,39.63,121.99
+221,"Orick, Redwood Creek",ORIC1,41.3,124.05
+222,"Below Our House Dam, Middle Fork Yuba River",OURC1,39.41,121
+223,"Owens Reservoir, Owens Creek",OWCC1,37.32,120.19
+224,"Palisade, Humboldt River",PALN2,40.61,116.2
+225,"Patterson, San Joaquin River",PATC1,37.49,121.08
+226,"Guenoc, Putah Creek",PCGC1,38.78,122.52
+227,"Palm Springs 5S, Palm Canyon Creek",PCNC1,33.74,116.53
+228,"Pine Flat Lake, Kings River",PFTC1,36.83,119.32
+229,"Dunneville, Pacheco Creek",PHOC1,36.98,121.38
+230,"Willow Creek, San Benito River",PIIC1,36.61,121.2
+231,"Montgomery Creek, Pit River",PITC1,40.84,122
+232,"Lake Pillsbury, Eel River",PLBC1,39.41,122.96
+233,"Prattville, North Fork Feather River",PLLC1,40.21,121.16
+234,"Likely, South Fork Pit River",PLYC1,41.23,120.44
+235,"Interstate 5, Panoche Creek",PNEC1,36.65,120.63
+236,"Yosemite NP at Pohono Bridge, Merced River",POHC1,37.72,119.67
+237,"Paso Robles, Salinas River",PRBC1,35.63,120.69
+238,"Prosser Creek Reservoir, Prosser Creek",PSRC1,39.38,120.14
+239,"Patterson, Del Puerto Creek",PTTC1,37.49,121.21
+240,"Pyramid Lake, Piru Creek",PYMC1,34.64,118.76
+241,"Rubicon Reservoir, Rockbound Tunnel",RBBC1,38.99,120.22
+242,"Red Bluff, Sacramento River",RDBC1,40.15,122.2
+243,"Igo, Clear Creek",RDGC1,40.51,122.52
+244,"Robles Del Rio, Carmel River",RDRC1,36.47,121.73
+245,"Hacienda Bridge, Russian River",RIOC1,38.51,122.93
+246,"Ripon, Stanislaus River",RIPC1,37.73,121.11
+247,"Kellogg, Maacama Creek",RMKC1,38.64,122.76
+248,"Rumsey, Cache Creek",RMSC1,38.89,122.24
+249,"Battle Mountain, Rock Creek",ROCN2,40.83,116.58
+250,"Rollins Lake, Bear River",ROLC1,39.14,120.95
+251,"Highway 1 Bridge near Jenner, Russian River",RROC1,38.43,123.1
+252,"Foresthill, Rubicon River",RUFC1,39,120.72
+253,"Water Resources Index, Sacramento Valley",SACC0,38.45,121.5
+254,"Sacramento - I Street, Sacramento River",SACC1,38.59,121.51
+255,"Sacramento - H Street, American River",SAMC1,38.57,121.42
+256,"Somes Bar, Salmon River",SBRC1,41.38,123.48
+257,"Keddie, Spanish Creek",SCBC1,40,120.95
+258,"Beatty, Sycan River",SCNO3,42.49,121.28
+259,"Scotia, Eel River",SCOC1,40.49,124.1
+260,"Piru, Santa Clara River",SCPC1,34.4,118.74
+261,"Steamboat, Steamboat Creek",SCRN2,39.38,119.74
+262,"Lake Success, Tule River",SCSC1,36.06,118.92
+263,"Sparks - Cleanwater Way, Steamboat Creek",SCWN2,39.51,119.71
+264,"Soledad, Salinas River",SDDC1,36.41,121.32
+265,"Seiad Valley, Klamath River",SEIC1,41.85,123.23
+266,"Fillmore, Sespe Creek",SESC1,34.44,118.93
+267,"Stanford University, San Francisquito Creek",SFCC1,37.42,122.19
+268,"Stony Gorge Reservoir, Stony Creek",SGEC1,39.58,122.53
+269,"Truckee, Sagehen Creek",SGNC1,39.43,120.24
+270,"Shasta Lake, Sacramento River",SHDC1,40.71,122.42
+271,"Saint Helena, Napa River",SHEC1,38.51,122.45
+272,"Shearer Crossing, San Luis Rey River",SHRC1,33.33,117.15
+273,"Lakeport, Scotts Creek",SKPC1,39.1,122.96
+274,"Onyx, South Fork Kern River",SKRC1,35.74,118.17
+275,"Oceanside, San Luis Rey River",SLOC1,33.22,117.36
+276,"Lompoc, Salsipuedes Creek",SLUC1,34.59,120.41
+277,"Temecula, Santa Margarita River",SMHC1,33.47,117.14
+278,"Lake San Antonio, San Antonio River",SNRC1,35.8,120.89
+279,"Soledad, Arroyo Seco",SOLC1,36.28,121.32
+280,"Somerset, Middle Fork Cosumnes River",SOSC1,38.62,120.7
+281,"Scotts Flat Reservoir, Deer Creek",SOVC1,39.27,120.93
+282,"Spreckels, Salinas River",SPRC1,36.63,121.67
+283,"Abv Stumpy Meadows Reservoir, Pilot Creek",SPYC1,38.89,120.57
+284,"San Bernardino - E Street, Santa Ana River",SREC1,34.06,117.3
+285,"Mentone, Santa Ana River",SRWC1,34.11,117.1
+286,"Santa Rosa, Santa Rosa Creek",SSAC1,38.44,122.72
+287,"Sisquoc, Sisquoc River",SSQC1,34.84,120.17
+288,"Stevens Creek Reservoir, Stevens Creek",STDC1,37.3,122.08
+289,"Stampede Reservoir, Little Truckee River",STPC1,39.47,120.1
+290,"Stevinson, Merced River",STVC1,37.37,120.93
+291,"Carson City, Carson River",STWN2,39.11,119.71
+292,"Lake Spaulding, South Fork Yuba River",SUAC1,39.33,120.64
+293,"Sutherland Reservoir, Santa Ysabel Creek",SUDC1,33.12,116.79
+294,"Susanville, Susan River",SUSC1,40.41,120.66
+295,"Camino Reservoir, Silver Creek",SVCC1,38.82,120.54
+296,"San Vicente Reservoir, San Vicente Creek",SVIC1,32.91,116.92
+297,"Silverwood Lake, West Fork Mojave River",SVWC1,34.3,117.32
+298,"Tahoe Basin, Lake Tahoe Inflow",TAHC1,39.17,120.14
+299,"Below Derby Dam, Truckee River",TBDN2,39.58,119.44
+300,"Above Coffee Creek, Trinity River",TCCC1,41.11,122.7
+301,"Paskenta, Thomes Creek",TCRC1,39.89,122.52
+302,"Tehama Bridge, Sacramento River",TEHC1,40.03,122.12
+303,"Aguanga, Temecula River",TEKC1,33.46,116.92
+304,"Tres Pinos, Tres Pinos Creek",TESC1,36.76,121.3
+305,"Tahoe City, Lake Tahoe",THLC1,39.18,120.12
+306,"Loma Linda, San Timoteo Creek",TIMC1,34.06,117.27
+307,"Tisdale Weir, Sacramento River",TISC1,39.03,121.82
+308,"Lake Kaweah, Kaweah River",TMDC1,36.41,119
+309,"Topaz Lake, West Walker River",TOPN2,38.69,119.52
+310,"Truckee, Truckee River",TRCC1,39.3,120.2
+311,"Junction City, Trinity River",TRJC1,40.73,123.06
+312,"Above North Fork Trinity R, Trinity River",TRNC1,40.77,123.11
+313,"Reno, Truckee River",TRRN2,39.53,119.79
+314,"Corona - Main Street, Temescal Creek",TSLC1,33.89,117.56
+315,"Reservation Boundary, South Fork Tule River",TVRC1,36.02,118.81
+316,"Twitchell Dam, Cuyama River",TWDC1,34.98,120.32
+317,"Ukiah 3NNE, Russian River",UKAC1,39.2,123.19
+318,"Union Valley Reservoir, Silver Creek",UNVC1,38.87,120.44
+319,"Piedmont Road, Upper Penitencia Creek",UPCC1,37.39,121.84
+320,"Uvas Reservoir, Uvas Creek",UVRC1,37.07,121.69
+321,"Victoria Avenue, Santa Clara River",VCAC1,34.23,119.22
+322,"Vista, Truckee River",VISN2,39.52,119.7
+323,"Vail Lake, Temecula Creek",VLKC1,33.5,116.98
+324,"Water Resources Index, San Joaquin Valley",VNSC0,37.79,121.31
+325,"Vernalis, San Joaquin River",VNSC1,37.68,121.27
+326,"Verona, Sacramento River",VONC1,38.78,121.6
+327,"Ventura - Foster Park, Ventura River",VRVC1,34.35,119.31
+328,"Vina Woodson Bridge, Sacramento River",VWBC1,39.91,122.09
+329,"Wadsworth, Truckee River",WADN2,39.63,119.28
+330,"Coalinga, Warthan Creek",WARC1,36.1,120.44
+331,"Magalia, West Branch Feather River",WBGC1,39.83,121.57
+332,"Hesperia and Silverwood Lake, West Fork Mojave River",WFMC1,34.34,117.26
+333,"Whiskeytown Reservoir, Clear Creek",WHSC1,40.6,122.54
+334,"Klamath Agency, Williamson River",WKAO3,42.74,121.83
+335,"Wilkins Slough, Sacramento River",WLKC1,39.01,121.82
+336,"Chiloquin, Williamson River",WMSO3,42.56,121.88
+337,"Woodfords, West Fork Carson River",WOOC1,38.77,119.83
+338,"Lake Sonoma, Dry Creek",WSDC1,38.72,123.01
+339,"Indio, Whitewater River",WTIC1,33.74,116.24
+340,"Blo Ltl Walker Nr Coleville, West Walker River",WWBC1,38.38,119.45
+341,"Hudson, West Walker River",WWHN2,38.81,119.23
+342,"Rancho Mirage, Whitewater River",WWIC1,33.75,116.42
+343,"Ysidora, Santa Margarita River",YDRC1,33.31,117.35
+344,"Yolo, Cache Creek",YLOC1,38.73,121.81
+345,"Yreka, Shasta River",YREC1,41.82,122.59
+346,"Colton, Lytle Creek",YTLC1,34.08,117.3
+347,"Yuba City, Feather River",YUBC1,39.14,121.6
